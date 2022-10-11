@@ -1,1 +1,1 @@
-Reverses its input
+Displays all users and directory sorted by users

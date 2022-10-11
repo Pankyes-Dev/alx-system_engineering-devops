@@ -1,1 +1,1 @@
-List words as inputs ad prints
+lines containing the pattern

@@ -1,1 +1,1 @@
-Display root pattern and 3 lines after
+Hide files with bin pattern

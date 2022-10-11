@@ -1,1 +1,1 @@
-Decodes acrostics
+Parses web servers logs

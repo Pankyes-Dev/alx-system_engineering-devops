@@ -1,1 +1,1 @@
-Hide files with bin pattern
+Lines of files stsrting with a letter
